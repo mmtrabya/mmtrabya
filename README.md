@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed A. Tarabay</h1>
 <h3 align="center">A passionate Artificial Intelligence Engineer</h3>
-**My bio :**
+**My bio: **
 
 
 **Mohammed Ahmed Tarabay is a highly driven and motivated Artificial Intelligence Engineering student who is dedicated to constantly expanding his knowledge and skill set. His education at Mansoura University has provided him with a solid foundation in the field and has inspired him to explore the limitless potential of AI technology.
