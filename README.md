@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed A. Tarabay</h1>
 <h3 align="center">A passionate Artificial Intelligence Engineer</h3>
-<img align="right" alt="coding" width="400" src="<div style="padding-top:75.000%;position:relative;"><iframe src="https://gifer.com/embed/SUV4" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>"
+<img align="right" alt="coding" src="![image](https://github.com/mmtrabya/mmtrabya/assets/117532413/684760f4-52fa-4f54-a53b-a381e3f36441)"
+
 
 
 **Mohammed Ahmed Tarabay is a highly driven and motivated Artificial Intelligence Engineering student who is dedicated to constantly expanding his knowledge and skill set. His education at Mansoura University has provided him with a solid foundation in the field and has inspired him to explore the limitless potential of AI technology.
