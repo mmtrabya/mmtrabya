@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed A. Tarabay</h1>
 <h3 align="center">A passionate Artificial Intelligence Engineer</h3>
 **My bio :**
+
+
 **Mohammed Ahmed Tarabay is a highly driven and motivated Artificial Intelligence Engineering student who is dedicated to constantly expanding his knowledge and skill set. His education at Mansoura University has provided him with a solid foundation in the field and has inspired him to explore the limitless potential of AI technology.
 Tarabay's proudest academic achievement is designing and creating a telegram bot for his faculty, where he demonstrated his proficiency in Python, a primary programming language used in AI development. This project's success has inspired him to pursue further opportunities in the field and to continue learning about the latest advancements in AI technology.
 Furthermore, Tarabay has completed courses in Basic Robotics and the Fundamentals of Embedded Systems, enabling him to have a profound understanding of AI technology's practical applications, including its seamless integration with robotics and embedded systems. He has learned about the importance of considering the practical applications of AI technology and has become familiar with the various design and implementation considerations necessary for successful implementation.
