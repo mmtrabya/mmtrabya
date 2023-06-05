@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed A. Tarabay</h1>
 <h3 align="center">A passionate Artificial Intelligence Engineer</h3>
-<img align="right" alt="coding" src="![image](https://github.com/mmtrabya/mmtrabya/assets/117532413/684760f4-52fa-4f54-a53b-a381e3f36441)"
+<img align="right" alt="coding" src="cover.png"
 
 
 
