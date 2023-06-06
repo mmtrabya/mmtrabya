@@ -195,7 +195,7 @@ Hi, I'm Mohammed A. Tarabay
       height="195px"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=mmtrabya&theme=tokyonight&langs_count=15&layout=compact&hide_border=true"
     />
- ![Snake animation](https://github.com/mmtrabya/mmtrabya/blob/output/github-contribution-grid-snake.svg) 
+  
   </p>
   <h1>
     Connect With Me
