@@ -192,7 +192,7 @@ Hi, I'm Mohammed A. Tarabay
     />
     <img
       align="right"
-      height="195px"
+      height="165px"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=mmtrabya&theme=tokyonight&langs_count=15&layout=compact&hide_border=true"
     />
     
