@@ -185,13 +185,13 @@ Hi, I'm Mohammed A. Tarabay
 
   # 📊GitHub Stats :
 
-  <p align="center">
+  <p align="left">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api?username=mmtrabya&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
     />
     <img
-      align="center"
+      align="right"
       height="195px"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=mmtrabya&theme=tokyonight&langs_count=15&layout=compact&hide_border=true"
     />
