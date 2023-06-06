@@ -181,18 +181,19 @@ Hi, I'm Mohammed A. Tarabay
   <br />
 <br /> <br />
 
-  <img alt="Coder GIF" akign="center" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+  
 
   # 📊GitHub Stats :
 
   <p align="left">
     <img
-      align="center"
+      align="left"
       src="https://github-readme-stats.vercel.app/api?username=mmtrabya&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
     />
+    <img alt="Coder GIF" akign="right" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
     <img
-      align="right"
-      height="140px"
+      align="center"
+      height="160px"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=mmtrabya&theme=tokyonight&langs_count=15&layout=compact&hide_border=true"
     />
     
