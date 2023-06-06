@@ -234,7 +234,7 @@ Hi, I'm Mohammed A. Tarabay
   <br></br>
   <a href="https://kaggle.com/mohammedatarabay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohammedatarabay" height="40" width="40" /></a>
   <a href="https://www.behance.net/mohamedtarabay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mohamedtarabay" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/mmtrabya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mmtrabya" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/@midotarabay66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mmtrabya" height="40" width="40" /></a>
 
   <br /><br />
   <img alt="Coder GIF" align="left" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
