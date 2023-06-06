@@ -11,9 +11,8 @@
 
 
 
-- 🌱 I’m currently learning **MLops, Embedded Systems, Raspberry Pi, Firebase, and App Development**
-
-- 📫 How to reach me **midotarabay66@gmail.com,mohammedtarabay@std.mans.edu.eg**
+- 🌱 I’m currently learning **MLops, Embedded Systems, Iot, Raspberry Pi, Firebase, and App Development**
+- 📫 How to reach me **midotarabay66@gmail.com, mohammedtarabay@std.mans.edu.eg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,6 +22,7 @@
 <a href="https://instagram.com/themohammedtarabay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="themohammedtarabay" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/mohamedtarabay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/mohamedtarabay" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mmtrabya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mmtrabya" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
