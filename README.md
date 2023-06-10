@@ -203,11 +203,12 @@ Hi, I'm Mohammed A. Tarabay
  ![Snake animation](https://github.com/mmtrabya/mmtrabya/blob/output/github-contribution-grid-snake.svg)
 
   
-  <img alt="Coder GIF" align="left" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+  
     
  <h2> 🌱 I’m currently learning MLops, Embedded Systems, Iot, Raspberry Pi, Firebase, and App Development </h2>
     
 </p>
+
   <h1>
     Connect With Me
     <img
@@ -246,7 +247,7 @@ Hi, I'm Mohammed A. Tarabay
   <a href="https://www.behance.net/mohamedtarabay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mohamedtarabay" height="40" width="40" /></a>
  <a href="https://www.hackerrank.com/midotarabay66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mmtrabya" height="40" width="40" /></a>
  <a href="mailto:mohammedtarabay@std.mans.edu.eg"><img alt="Email" src="https://img.shields.io/badge/Email-mohammedtarabay@std.mans.edu.eg-blue?&style=plastic&logo=gmail"></a>
-
+<img alt="Coder GIF" align="left" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
  
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 </div>
