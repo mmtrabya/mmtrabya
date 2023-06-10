@@ -189,7 +189,7 @@ Hi, I'm Mohammed A. Tarabay
 
   
 
-  # 📊GitHub Stats :
+  # 📊GitHub Stats 
 
   <p align="left">
    
