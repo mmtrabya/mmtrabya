@@ -239,14 +239,13 @@ Hi, I'm Mohammed A. Tarabay
       height="40"
     />
   </a>
+  <a href="mailto:midotarabay66@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-midotarabay66@gmail.com-blue?&style=plastic&logo=gmail"></a>
   <br></br>
   <a href="https://kaggle.com/mohammedatarabay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohammedatarabay" height="40" width="40" /></a>
   <a href="https://www.behance.net/mohamedtarabay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mohamedtarabay" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/midotarabay66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mmtrabya" height="40" width="40" /></a>
-<a href="mailto:midotarabay66@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-midotarabay66@gmail.com-blue?&style=plastic&logo=gmail"></a>
-<a href="mailto:mohammedtarabay@std.mans.edu.eg"><img alt="Email" src="https://img.shields.io/badge/Email-mohammedtarabay@std.mans.edu.eg-blue?&style=plastic&logo=gmail"></a>
+ <a href="https://www.hackerrank.com/midotarabay66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mmtrabya" height="40" width="40" /></a>
+ <a href="mailto:mohammedtarabay@std.mans.edu.eg"><img alt="Email" src="https://img.shields.io/badge/Email-mohammedtarabay@std.mans.edu.eg-blue?&style=plastic&logo=gmail"></a>
 
-<br> 
  
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 </div>
