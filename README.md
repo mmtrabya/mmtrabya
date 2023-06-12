@@ -175,8 +175,7 @@ Hi, I'm Mohammed A. Tarabay
 <br /> <br />
 
 
-<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=mmtrabya&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=mmtrabya&theme=monokai)](https://github.com/mmtrabya/github-profile-trophy)
 <img alt="Coder GIF" align="right" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
   <p align="center">
     <img
