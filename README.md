@@ -197,7 +197,6 @@ Hi, I'm Mohammed A. Tarabay
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmtrabya&theme=codeSTACKr&layout=compact)
    
 <img alt="Coder GIF" align="right" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />    
-    
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmtrabya&theme=codeSTACKr&show_icons=true)
     
  ![Snake animation](https://github.com/mmtrabya/mmtrabya/blob/output/github-contribution-grid-snake.svg)
