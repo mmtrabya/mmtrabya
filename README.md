@@ -205,7 +205,7 @@ Hi, I'm Mohammed A. Tarabay
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmtrabya&show=reviews&show_icons=true&theme=radical)
     
 
- ![Snake animation](https://github.com/mmtrabya/mmtrabya/blob/output/github-contribution-grid-snake.svg)
+ 
 
   
   
