@@ -210,7 +210,7 @@ Hi, I'm Mohammed A. Tarabay
   
   
     
- <h2> 🌱 I’m currently learning MLops, Embedded Systems, Iot, and Raspberry Pi </h2>
+ <h2> 🌱 I’m currently learning MLops, Embedded Systems, Iot, ROS2, and Raspberry Pi</h2>
     
 </p>
 
