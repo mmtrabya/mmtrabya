@@ -6,7 +6,7 @@
     src="https://camo.githubusercontent.com/5bbf8ca61ef5f92684489ace45ad6f45984fff87a621040c62b1fe31e3005ff9/687474703a2f2f692e696d6775722e636f6d2f436a34724d72532e676966"
     width="30"
   />
-Hi, I'm Mohammed A. Tarabay
+Hi, I'm Mohammed Tarabay
   <img
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
     width="28"
@@ -20,7 +20,7 @@ Hi, I'm Mohammed A. Tarabay
 
 
 
-**Mohammed Ahmed Tarabay is a highly driven and motivated Artificial Intelligence Engineering student who is dedicated to constantly expanding his knowledge and skill set. His education at Mansoura University has provided him with a solid foundation in the field and has inspired him to explore the limitless potential of AI technology. Tarabay's proudest academic achievement is designing and creating a telegram bot for his faculty, where he demonstrated his proficiency in Python, a primary programming language used in AI development. This project's success has inspired him to pursue further opportunities in the field and to continue learning about the latest advancements in AI technology. Furthermore, Tarabay has completed courses in Basic Robotics and the Fundamentals of Embedded Systems, enabling him to have a profound understanding of AI technology's practical applications, including its seamless integration with robotics and embedded systems. He has learned about the importance of considering the practical applications of AI technology and has become familiar with the various design and implementation considerations necessary for successful implementation. Tarabay founded Octware, an AI & Data Science student activity Team at Mansoura University, providing students with opportunities to develop their AI skills, learn more about the field, and work on innovative AI projects. As Tarabay continues his journey in AI, he is keen on using his skills and knowledge to make a positive impact in the field. He strongly believes that AI technology has the potential to revolutionize many industries and improve people's lives in countless ways. Whether he is developing cutting-edge AI technology or working with a team of experts to bring a new AI project to life, he is committed to advancing the field and making a meaningful difference in the world. Tarabay's drive for success goes beyond personal aspirations; he seeks to contribute to society's betterment. He aims to use AI technology to tackle societal challenges and create solutions that have a positive impact on people's lives.**
+**Mohammed Tarabay is a highly driven and motivated Artificial Intelligence Engineering student who is dedicated to constantly expanding his knowledge and skill set. His education at Mansoura University has provided him with a solid foundation in the field and has inspired him to explore the limitless potential of AI technology. Tarabay's proudest academic achievement is designing and creating a telegram bot for his faculty, where he demonstrated his proficiency in Python, a primary programming language used in AI development. This project's success has inspired him to pursue further opportunities in the field and to continue learning about the latest advancements in AI technology. Furthermore, Tarabay has completed courses in Basic Robotics and the Fundamentals of Embedded Systems, enabling him to have a profound understanding of AI technology's practical applications, including its seamless integration with robotics and embedded systems. He has learned about the importance of considering the practical applications of AI technology and has become familiar with the various design and implementation considerations necessary for successful implementation. Tarabay founded Octware, an AI & Data Science student activity Team at Mansoura University, providing students with opportunities to develop their AI skills, learn more about the field, and work on innovative AI projects. As Tarabay continues his journey in AI, he is keen on using his skills and knowledge to make a positive impact in the field. He strongly believes that AI technology has the potential to revolutionize many industries and improve people's lives in countless ways. Whether he is developing cutting-edge AI technology or working with a team of experts to bring a new AI project to life, he is committed to advancing the field and making a meaningful difference in the world. Tarabay's drive for success goes beyond personal aspirations; he seeks to contribute to society's betterment. He aims to use AI technology to tackle societal challenges and create solutions that have a positive impact on people's lives.**
 
 
 
@@ -210,7 +210,7 @@ Hi, I'm Mohammed A. Tarabay
   
   
     
- <h2> 🌱 I’m currently learning MLops, Embedded Systems, Iot, ROS2, and Raspberry Pi</h2>
+ <h2> 🌱 I’m currently learning MLops, Embedded Systems, IoT, ROS2, and Raspberry Pi</h2>
     
 </p>
 
