@@ -2,10 +2,7 @@
   
   ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
-  <img
-    src="https://camo.githubusercontent.com/5bbf8ca61ef5f92684489ace45ad6f45984fff87a621040c62b1fe31e3005ff9/687474703a2f2f692e696d6775722e636f6d2f436a34724d72532e676966"
-    width="30"
-  />
+  
 Hi, I'm Mohammed Tarabay
   <img
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
@@ -52,8 +49,8 @@ Hi, I'm Mohammed Tarabay
 
 
 
- <p align="center"> 
-  <h1> 💻Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"</h1></p>
+ <h2><p align="center"> 
+💻Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif",  width="28"/></p></h2>
 
   <div align="center">
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
@@ -87,6 +84,16 @@ Hi, I'm Mohammed Tarabay
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="illustrator logo"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/ros/22314E" height="40" alt="ros"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/redhat/EE0000" height="40" alt="redhat"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="40" alt="raspberrypi"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/hp/0096D6" height="40" alt="hp"  />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/windows11/0078D4" height="40" alt="windows11"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"  />
      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
@@ -122,7 +129,7 @@ Hi, I'm Mohammed Tarabay
     
 
  
- <h2> 🌱 I’m currently learning MLops, Embedded Systems, IoT, ROS2, and Raspberry Pi</h2>
+ <h2> 🌱 I’m currently learning MLops, Embedded Systems, IoT, DevOps, App Development and Software Testing</h2>
     
 </p>
 
