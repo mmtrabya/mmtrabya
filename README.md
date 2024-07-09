@@ -75,8 +75,6 @@ Hi, I'm Mohammed Tarabay
   <img width="10" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
@@ -92,8 +90,6 @@ Hi, I'm Mohammed Tarabay
   <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="40" alt="raspberrypi"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/hp/0096D6" height="40" alt="hp"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/windows11/0078D4" height="40" alt="windows11"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"  />
      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
