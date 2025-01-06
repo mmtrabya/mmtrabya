@@ -99,7 +99,9 @@ Hi, I'm Mohammed Tarabay
     
 ###
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmtrabya&show_icons=true&locale=en&theme=gotham&hide_border=false&border_radius=5" alt="mmtrabya" /></p>
+
   <img src="https://streak-stats.demolab.com?user=mmtrabya&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&date_format=M j[, Y]" height="150" alt="streak graph"  />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mmtrabya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
