@@ -137,6 +137,8 @@ Hi, I'm Mohammed Tarabay
 <img alt="Coder GIF" align="right" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <img alt="Coder GIF" align="left" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+
+![Snake animation](https://github.com/mmtrabya/mmtrabya/raw/output/snake.svg)
  
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 </div>
