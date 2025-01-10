@@ -29,11 +29,11 @@
 
 ---
 
-<h2 align="center">
+<h2 align="left">
   💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/>
 </h2>
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo" />
   <img src="https://cdn.simpleicons.org/ros/22314E" height="40" alt="ros" />
@@ -49,12 +49,10 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="left">📊 GitHub Stats</h2>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mmtrabya&show_icons=true&theme=gotham" alt="GitHub Stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=mmtrabya&theme=gotham&hide_border=false" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmtrabya&layout=compact&theme=gotham" alt="Top Languages" />
 </div>
