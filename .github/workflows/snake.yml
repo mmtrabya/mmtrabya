@@ -1,9 +1,9 @@
 name: Full History Snake
 
 on:
+  workflow_dispatch:  # Manual trigger for testing
   schedule:
     - cron: "0 0 * * *"  # Daily update
-  workflow_dispatch:
 
 jobs:
   generate:
@@ -16,8 +16,8 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: mmtrabya
-          years: 0  # 0 = all years since account creation
-          size: 2000  # Max width to accommodate all days
+          year: all  # Force all years
+          size: 3000  # Width to accommodate all days
           outputs: |
             dist/full-history-snake.svg
             dist/full-history-snake-dark.svg?palette=github-dark
