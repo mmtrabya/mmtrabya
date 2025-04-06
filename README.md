@@ -108,6 +108,10 @@
 
 ---
 
+![Snake](https://github.com/mmtrabya/mmtrabya/blob/output/github-contribution-grid-snake.svg?timestamp=1)
+
+
+---
   
 ## ⚡ **Fun Fact:** I'm secretly a robot 🤖... or am I?
 
