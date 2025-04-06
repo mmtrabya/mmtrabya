@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=fadeIn" />
 </div>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammed+Tarabay;Artificial+Intelligence+Engineer;ML+%7C+Computer+Vision+%7C+Robotics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&weight=400&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammed+Tarabay;Artificial+Intelligence+Engineer;ML+%7C+DL+%7C+Computer+Vision+%7C+Robotics" alt="Typing SVG" />
 </h1>
 
 
