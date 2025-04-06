@@ -1,100 +1,117 @@
 <h1 align="center">
-
-  ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
-  
-  
-  Hi, I'm Mohammed Tarabay
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=fadeIn" />
+</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammed+Tarabay;Artificial+Intelligence+Engineer;ML+%7C+Computer+Vision+%7C+Robotics" alt="Typing SVG" />
 </h1>
 
-<h2 align="center">A passionate Artificial Intelligence Engineer</h2>
 
 <p align="center">
-  <img src="cover.png" alt="Coding banner" width="100%">
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mmtrabya&margin-w=15&margin-h=15&theme=algolia" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mmtrabya&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile Views" />
-  •
-  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/mmtrabya?label=Followers&style=social" />
-  •
-  <img src="https://img.shields.io/github/stars/mmtrabya?label=Stars&style=social" alt="Total Stars" />
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="AI Robot">
 </p>
 
 ---
 
-<h2 align="left">
-  💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/>
-</h2>
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo" />
-  <img src="https://cdn.simpleicons.org/ros/22314E" height="40" alt="ros" />
-  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="40" alt="raspberrypi logo" />
-  <img src="https://cdn.simpleicons.org/git/000000" height="40" alt="git logo" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo" />
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="opencv logo" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo" />
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo" />
-  <img src="https://cdn.simpleicons.org/flutter/02569B" height="40" alt="flutter logo" />
-</div>
-
----
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmtrabya&show_icons=true&theme=gotham" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmtrabya&layout=compact&theme=gotham" alt="Top Languages" />
-</div>
-
----
-
-<h2>🌱 I’m currently learning:</h2>
-<ul>
-  <li>MLops</li>
-  <li>Embedded Systems</li>
-  <li>IoT</li>
-  <li>DevOps</li>
-  <li>App Development</li>
-  <li>Software Testing</li>
-</ul>
-
----
-
-<h2>Connect With Me</h2>
+### 🚀 Core Skills
 
 <div align="center">
-  <a href="https://www.facebook.com/mohamed.tarabay.77/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="35" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/themohammedtarabay/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammed-tarabay-36b956235/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://www.hackerrank.com/midotarabay66" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="35" alt="HackerRank" />
-  </a>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Robotics-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Autonomous%20Systems-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded%20Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile%20Development-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Self--Driving%20Cars-CC0000?style=for-the-badge&logo=tesla&logoColor=white" />
 </div>
-
-<p align="center">
-  <img alt="Coder GIF" height="250" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-  <img alt="Coder GIF" height="250" width="350" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
-</p>
 
 ---
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+### 🛠️ Tech Stack
 
-© 2025 Mohammed Tarabay. All rights reserved. 🔒
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/AVR-0071C5?style=for-the-badge&logo=Processor&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=mmtrabya&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D)
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=mmtrabya&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmtrabya&layout=compact&theme=radical" width="40%" />
+
+---
+
+  <div align="center">
+
+## 🏆 GitHub Achievements
+  
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mmtrabya&theme=onedark&margin-w=15&margin-h=15&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 Profile Stats
+
+🎯 **Metrics**  
+<img src="https://komarev.com/ghpvc/?username=mmtrabya&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" /> 
+  
+🚀 **Social**  
+<a href="https://github.com/mmtrabya?tab=followers">
+  <img src="https://img.shields.io/github/followers/mmtrabya?label=FOLLOWERS&style=for-the-badge&color=58a6ff" />
+</a>
+<a href="https://github.com/mmtrabya?tab=stars">
+  <img src="https://img.shields.io/github/stars/mmtrabya?label=STARS&style=for-the-badge&color=ffd700" />
+</a>
+
+</div>
+
+---
+
+### 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohammed-tarabay-36b956235/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/mohamed.tarabay.77/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/themohammedtarabay/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://mmtrabya.github.io/Portfolio-Website/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-009B77?style=for-the-badge&logo=ionic&logoColor=white">
+  </a>
+</div>
+
+---
+
+  
+## ⚡ **Fun Fact:** I'm secretly a robot 🤖... or am I?
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" />
+</div>
