@@ -89,7 +89,7 @@
 
 ---
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohammed-tarabay-36b956235/" target="_blank">
