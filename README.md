@@ -114,6 +114,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mmtrabya/mmtrabya/output/full-history-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mmtrabya/mmtrabya/output/full-history-snake.svg">
     <img alt="Full GitHub History Snake" src="https://raw.githubusercontent.com/mmtrabya/mmtrabya/output/full-history-snake.svg" width="100%">
+    <img src="https://raw.githubusercontent.com/mmtrabya/mmtrabya/output/full-history-snake.svg?t=$(date +%s)" width="100%">
   </picture>
 </p>
 
