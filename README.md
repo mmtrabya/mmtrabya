@@ -108,7 +108,7 @@
 
 ---
 
-![Snake](https://github.com/mmtrabya/mmtrabya/blob/output/github-contribution-grid-snake.svg?timestamp=1)
+![Snake animation](https://raw.githubusercontent.com/mmtrabya/mmtrabya/output/github-contribution-grid-snake.svg)
 
 
 ---
