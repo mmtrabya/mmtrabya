@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 Core Skills
+## 🚀 Core Skills
 
 <div align="center">
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -26,7 +26,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -49,7 +49,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   
@@ -58,11 +58,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mmtrabya&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmtrabya&layout=compact&theme=radical" width="40%" />
 
+</div>
+
 ---
 
-  <div align="center">
 
 ## 🏆 GitHub Achievements
+
+<div align="center">
   
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mmtrabya&theme=onedark&margin-w=15&margin-h=15&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -70,10 +73,11 @@
 
 ---
 
-<div align="center">
 
 ## 🌟 Profile Stats
 
+<div align="center">
+  
 🎯 **Metrics**  
 <img src="https://komarev.com/ghpvc/?username=mmtrabya&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" /> 
   
@@ -93,8 +97,8 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohammed-tarabay-36b956235/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&cache=bust" />
+</a>
   <a href="https://www.facebook.com/mohamed.tarabay.77/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
