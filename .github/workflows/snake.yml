@@ -2,8 +2,8 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight UTC
-  workflow_dispatch:     # Allows manual triggering
+    - cron: "0 0 * * *"  # Daily at midnight UTC
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -16,10 +16,13 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: mmtrabya
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          output: dist/github-contribution-grid-snake.svg
 
-      - name: Commit and Push
-        uses: JamesIves/github-pages-deploy-action@v4.4.1
+      - name: Create output directory
+        run: mkdir -p dist
+
+      - name: Commit and push
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
           folder: dist
@@ -27,3 +30,4 @@ jobs:
           clean-exclude: |
             *.svg
             *.json
+          token: ${{ secrets.GITHUB_TOKEN }}
