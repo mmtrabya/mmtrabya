@@ -1,26 +1,28 @@
-name: Generate Contribution Snake
+name: Full History Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # Daily update
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Snake
+      - name: Generate Full History Snake
         uses: Platane/snk@v3
         with:
           github_user_name: mmtrabya
+          years: 0  # 0 = all years since account creation
+          size: 2000  # Max width to accommodate all days
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/full-history-snake.svg
+            dist/full-history-snake-dark.svg?palette=github-dark
 
-      - name: Deploy to Branch
+      - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
