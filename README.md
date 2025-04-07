@@ -96,7 +96,7 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohammed-tarabay-36b956235/" target="_blank">
+  <a href="https://www.linkedin.com/in/themohammedtarabay/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&cache=bust" />
 </a>
   <a href="https://www.facebook.com/mohamed.tarabay.77/" target="_blank">
