@@ -6,9 +6,9 @@
 </h1>
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="AI Robot">
-</p>
+
+<img src="Firefly Robots & Self Driving Cars for LinkedIn Cover 76316.jpg" alt="Banner" width="100%"> </p>
+
 
 ---
 
@@ -122,6 +122,10 @@
   
 ## ⚡ **Fun Fact:** I'm secretly a robot 🤖... or am I?
 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="AI Robot">
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" />
