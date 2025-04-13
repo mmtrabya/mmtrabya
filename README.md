@@ -67,7 +67,8 @@
 
 <div align="center">
   
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mmtrabya&theme=gruvbox&no-bg=true&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mmtrabya&theme=gruvbox&no-bg=true&no-frame=true&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
