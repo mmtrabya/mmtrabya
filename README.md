@@ -66,10 +66,11 @@
 
 <div align="center">
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=mmtrabya&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D)
   
   
-  <img src="https://github-readme-stats.vercel.app/api?username=mmtrabya&show_icons=true&theme=radical" width="48%" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmtrabya&show_icons=true&theme=radical&width=40)
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=mmtrabya&show_icons=true&theme=radical" width="40%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmtrabya&layout=compact&theme=radical" width="40%" />
 
 </div>
