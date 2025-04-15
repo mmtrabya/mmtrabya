@@ -6,9 +6,9 @@
 </h1>
 
 
-
-<img src="Firefly Robots & Self Driving Cars for LinkedIn Cover 76316.jpg" alt="Banner" width="100%"> </p>
-
+<div align="center">
+<img src="Firefly Robots & Self Driving Cars for LinkedIn Cover 76316.jpg" alt="Banner" width="50%"> </p>
+</div>
 
 ---
 
