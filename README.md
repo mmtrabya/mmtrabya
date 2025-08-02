@@ -2,7 +2,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=fadeIn" />
 </div>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&weight=400&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammed+Tarabay;Artificial+Intelligence+Engineer;ML+%7C+DL+%7C+Computer+Vision+%7C+Robotics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&weight=400&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammed+Tarabay;Artificial+Intelligence+Engineer;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Robotics;Cloud+%26+DevOps" alt="Typing SVG" />
+
 </h1>
 
 
@@ -52,6 +53,14 @@
   <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 
   <!-- OS & Platforms -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
