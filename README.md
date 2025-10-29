@@ -36,13 +36,14 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   
   <!-- Tools & Hardware -->
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/AVR-0071C5?style=for-the-badge&logo=Processor&logoColor=white" />
+  <img src="https://img.shields.io/badge/AVR-0071C5?style=for-the-badge&logo=microchip&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
 
   <!-- AI/ML -->
@@ -55,10 +56,11 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   
   <!-- Cloud & DevOps -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/ArgoCD-FE4C1E?style=for-the-badge&logo=argo&logoColor=white" />
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
@@ -79,14 +81,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  
-  
-  
   <img src="https://github-readme-stats.vercel.app/api?username=mmtrabya&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mmtrabya&theme=radical&hide_border=false" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmtrabya&langs_count=10&layout=compact&theme=radical" width="40%" />
-
 </div>
 
 ---
